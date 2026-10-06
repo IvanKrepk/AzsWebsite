@@ -1,0 +1,43 @@
+# База данных SQLite
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Папки сборки
+bin/
+obj/
+
+# Файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Visual Studio cache/options
+.vs/
+*.cache
